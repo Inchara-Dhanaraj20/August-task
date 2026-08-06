@@ -10,11 +10,13 @@ body{
     justify-content:center;
     align-items:center;
     height:100vh;
-    background:#f2f2f2;
+    background:darkolivegreen;
+    /*background:#f2f2f2;*/
 }
 
 .calculator{
-    background:white;
+    background:darkgoldenrod;
+    /*background:white;*/
     padding:20px;
     border-radius:12px;
     box-shadow:0 5px 15px rgba(0,0,0,0.2);
