@@ -10,12 +10,14 @@ body{
     justify-content:center;
     align-items:center;
     height:100vh;
-    background:darkolivegreen;
+    background:darkslateblue;
+    /*background:darkolivegreen;*/
     /*background:#f2f2f2;*/
 }
 
 .calculator{
-    background:darkgoldenrod;
+    background:lightskyblue;
+    /*background:darkgoldenrod;*/
     /*background:white;*/
     padding:20px;
     border-radius:12px;
